@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👩‍🔬 Debopriya Kumari  
 
-<!--
-**DEBOPRIYA2320/DEBOPRIYA2320** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*Pursuing Postgraduate in Biotechnology*  
+🌱 Genomics | 🧬 Bioinformatics | 💻 Computational Biology | 📊 Data Analysis & Proteomics  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🔭 Currently working on bioinformatics, genomics & proteomics projects  
+- 🎓 Passionate about computational biology and data-driven research  
+- 📚 Interested in integrating biotechnology with computer science  
+- 💡 Always learning new tools for data analysis & visualization  
+
+---
+
+## 🛠 Skills & Tools
+- *Languages:* Python, R 
+- *Bioinformatics Tools:* BLAST, Pymol, Snakemake  
+- *Data Analysis:* DESeq2, ggplot2, pheatmap, clusterProfiler  
+- *Version Control:* Git & GitHub  
+- *Others:* Linux, Shell Scripting  
+
+---
+
+## 📂 Featured Projects
+- 🔬 [Classification of Biological Databases](https://github.com/DEBOPRIYA2320/Classification-of-biological-databases)  
+- 
+---
+
+## 📊 GitHub Stats
+![Debopriya's GitHub stats](https://github-readme-stats.vercel.app/api?username=DEBOPRIYA2320&show_icons=true&theme=tokyonight)
+
+---
+
+## 🤝 Connect With Me
+- ✉ Email: debopriya0920@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/debopriya-kumari-a14b22375?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
+---
