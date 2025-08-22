@@ -1,4 +1,4 @@
-# 👩‍🔬 Debopriya Kumari  
+# 👩‍🔬 Debopriya  
 
 *Pursuing Postgraduate in Biotechnology*  
 🌱 Genomics | 🧬 Bioinformatics | 💻 Computational Biology | 📊 Data Analysis & Proteomics  
