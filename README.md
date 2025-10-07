@@ -1,6 +1,6 @@
 # 👩‍🔬 Debopriya  
 
-*Pursuing Postgraduate in Biotechnology*  
+*Pursuing Post graduate in Biotechnology*  
 🌱 Genomics | 🧬 Bioinformatics | 💻 Computational Biology | 📊 Data Analysis & Proteomics  
 
 ---
@@ -17,14 +17,13 @@
 - *Languages:* Python, R 
 - *Bioinformatics Tools:* BLAST, Pymol, Snakemake  
 - *Data Analysis:* DESeq2, ggplot2, pheatmap, clusterProfiler  
-- *Version Control:* Git & GitHub  
 - *Others:* Linux, Shell Scripting  
 
 ---
 
 ## 📂 Featured Projects
 - 🔬 [Classification of Biological Databases](https://github.com/DEBOPRIYA2320/Classification-of-biological-databases)  
-- 
+- 🧬 [Whole Genome Variant Analysis](https://github.com/DEBOPRIYA2320/pseudomonas-wgs-variant-analysis)
 ---
 
 ## 📊 GitHub Stats
