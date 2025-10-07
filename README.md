@@ -25,10 +25,6 @@
 - 📊 [RNA-seq Expression & Functional Enrichment Analysis](https://github.com/DEBOPRIYA2320/pseudomonas-rnaseq-enrichment)
 ---
 
-## 📊 GitHub Stats
-![Debopriya's GitHub stats](https://github-readme-stats.vercel.app/api?username=DEBOPRIYA2320&show_icons=true&theme=tokyonight)
-
----
 
 ## 🤝 Connect With Me
 - ✉ Email: debopriya0920@gmail.com
