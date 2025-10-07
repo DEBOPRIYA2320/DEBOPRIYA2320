@@ -23,6 +23,8 @@
 - 🔬 [Classification of Biological Databases](https://github.com/DEBOPRIYA2320/Classification-of-biological-databases)  
 - 🧬 [Whole Genome Variant Analysis](https://github.com/DEBOPRIYA2320/pseudomonas-wgs-variant-analysis)
 - 📊 [RNA-seq Expression & Functional Enrichment Analysis](https://github.com/DEBOPRIYA2320/pseudomonas-rnaseq-enrichment)
+- 🧪 [NGS WES/TRS Analysis Workflow](https://github.com/DEBOPRIYA2320/NGS-WES-TRS-Analysis-Workflow) 
+- 🧠 [Genome Annotation Overview](https://github.com/DEBOPRIYA2320/genome-annotation-overview)
 ---
 
 
