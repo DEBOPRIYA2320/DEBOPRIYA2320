@@ -14,16 +14,15 @@
 ---
 
 ## 🛠 Skills & Tools
-- *Languages:* Python, R 
-- *Bioinformatics Tools:* BLAST, Pymol, Snakemake  
-- *Data Analysis:* DESeq2, ggplot2, pheatmap, clusterProfiler  
-- *Others:* Linux, Shell Scripting  
-
+- *Languages:* Python, R, Bash
+- *Bioinformatics Tools:* BLAST, SnpEff, HISAT2, Pymol, Snakemake, STAR, featureCounts
+- *Data Analysis & Visualization:* DESeq2, edgeR, ggplot2, pheatmap, clusterProfiler, DAVID, KEGG, Reactome, STRING
 ---
 
 ## 📂 Featured Projects
 - 🔬 [Classification of Biological Databases](https://github.com/DEBOPRIYA2320/Classification-of-biological-databases)  
 - 🧬 [Whole Genome Variant Analysis](https://github.com/DEBOPRIYA2320/pseudomonas-wgs-variant-analysis)
+- 📊 [RNA-seq Expression & Functional Enrichment Analysis](https://github.com/DEBOPRIYA2320/pseudomonas-rnaseq-enrichment)
 ---
 
 ## 📊 GitHub Stats
