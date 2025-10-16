@@ -25,6 +25,7 @@
 - 📊 [RNA-seq Expression & Functional Enrichment Analysis](https://github.com/DEBOPRIYA2320/pseudomonas-rnaseq-enrichment)
 - 🧪 [NGS WES/TRS Analysis Workflow](https://github.com/DEBOPRIYA2320/NGS-WES-TRS-Analysis-Workflow) 
 - 🧠 [Genome Annotation Overview](https://github.com/DEBOPRIYA2320/genome-annotation-overview)
+- 🧮 [Fundamentals of R Programming](https://github.com/DEBOPRIYA2320/Fundamentals-of-R-Programming.git)
 ---
 
 
